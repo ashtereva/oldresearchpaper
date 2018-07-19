@@ -30,10 +30,10 @@ However, even with so many roadblocks, I believe that at least the mindset of so
 
 #### Works Cited
 
-"Bulgaria Overcomes Consequences of Economic Crisis Due To Fast Growth of 9 Regions." *Novinite.com - Sofia News Agency.* Novinite JSC, 29 Nov. 2016. Web. 07 Apr. 2017.
+* "Bulgaria Overcomes Consequences of Economic Crisis Due To Fast Growth of 9 Regions." *Novinite.com - Sofia News Agency.* Novinite JSC, 29 Nov. 2016. Web. 07 Apr. 2017.
 
-"Fewer Bulgarians Become Indebted, Debt Amount Grows." *Novinite.com - Sofia News Agency.* Novinite JSC, 14 Mar. 2017. Web. 07 Apr. 2017.
+* "Fewer Bulgarians Become Indebted, Debt Amount Grows." *Novinite.com - Sofia News Agency.* Novinite JSC, 14 Mar. 2017. Web. 07 Apr. 2017.
 
-"Industry in Bulgaria Has One of the Highest Profit Rates in Europe." *Novinite.com - Sofia News Agency.* Novinite JSC, 30 Mar. 2017. Web. 07 Apr. 2017.
+* "Industry in Bulgaria Has One of the Highest Profit Rates in Europe." *Novinite.com - Sofia News Agency.* Novinite JSC, 30 Mar. 2017. Web. 07 Apr. 2017.
 
-Ivancheva, Mariya. "The Bulgarian Wave of Protests, 2012-2013." *CritCom.* Council for European Studies, 7 Oct. 2013. Web. 11 Apr. 2017.
+* Ivancheva, Mariya. "The Bulgarian Wave of Protests, 2012-2013." *CritCom.* Council for European Studies, 7 Oct. 2013. Web. 11 Apr. 2017.
