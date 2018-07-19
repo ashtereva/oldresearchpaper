@@ -1,2 +1,2 @@
 # oldresearchpaper
-First Attempt at Using LaTeX
+First Attempt at Formatting Text Documents
