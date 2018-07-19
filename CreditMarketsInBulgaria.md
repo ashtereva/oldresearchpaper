@@ -14,7 +14,7 @@ To answer these questions and understand the situation a little bit better, we m
 
 With this tight budget constraint, the Bulgarian has very little disposable income left over after paying taxes and other expenses like rent/mortgage, car loans, food, and bills. This is why purchasing laptops and mobile phones is considered a luxury in Bulgaria and the average person needs to borrow in order to obtain what would be considered normal goods in other member states of the European Union. Looking at the general form of the consumer's utility function in the two-period model, we notice something else.
 
-```**u(c) + ??(u(c'))**```
+u(c) + ??(u(c'))
 
 The discount factor, ??, must be very close to zero because of impulse purchases of consumption goods in the current period. This indicates that Bulgarians on average value consumption today more than consumption tomorrow. The reasons for this preference may range from the uncertainty of the job market to a negative outlook for the future and mistrust of the government as seen in the protests of 2012 (Ivancheva). This may also be the reason why employment decreased by 10% between 2012 and 2016. The substitution effect leads us to think that the opportunity cost of employment is greater than that of leisure, meaning the same level of utility can be achieved by staying at home and not working. Without the right incentives from the government and the free markets, the Bulgarian consumer is caught in a vicious cycle of not being able to save due to an inadequate ratio of wages to prices, leading to more impulse borrowing for consumption. Since the consumer has to repay any borrowing today in the future period, financial stability decreases as time goes on.
 
@@ -30,12 +30,12 @@ So, overall can we really label all borrowing for consumption as "risky"? Could 
 
 However, even with so many roadblocks, I believe that at least the mindset of some Bulgarians is changing. There is a light at the end of the tunnel for those who have the option to borrow and the education and willingness to do so. According to "Fewer Bulgarians Become Indebted." highly educated people have increased their borrowing over the past year. While the article does not go into detail as to why that might be, it may be safe to assume that at least a small fraction of these educated borrowers will invest the money in small or medium enterprises, giving a much needed boost to output and GDP.
 
-```#### Works Cited```
+#### Works Cited
 
-*"Bulgaria Overcomes Consequences of Economic Crisis Due To Fast Growth of 9 Regions."Novinite.com - Sofia News Agency. Novinite JSC, 29 Nov. 2016. Web. 07 Apr. 2017.
+"Bulgaria Overcomes Consequences of Economic Crisis Due To Fast Growth of 9 Regions."Novinite.com - Sofia News Agency. Novinite JSC, 29 Nov. 2016. Web. 07 Apr. 2017.
 
-*"Fewer Bulgarians Become Indebted, Debt Amount Grows." Novinite.com - Sofia News Agency. Novinite JSC, 14 Mar. 2017. Web. 07 Apr. 2017.
+"Fewer Bulgarians Become Indebted, Debt Amount Grows." Novinite.com - Sofia News Agency. Novinite JSC, 14 Mar. 2017. Web. 07 Apr. 2017.
 
-*"Industry in Bulgaria Has One of the Highest Profit Rates in Europe." Novinite.com - Sofia News Agency. Novinite JSC, 30 Mar. 2017. Web. 07 Apr. 2017.
+"Industry in Bulgaria Has One of the Highest Profit Rates in Europe." Novinite.com - Sofia News Agency. Novinite JSC, 30 Mar. 2017. Web. 07 Apr. 2017.
 
-*Ivancheva, Mariya. "The Bulgarian Wave of Protests, 2012-2013." CritCom. Council for European Studies, 7 Oct. 2013. Web. 11 Apr. 2017.
+Ivancheva, Mariya. "The Bulgarian Wave of Protests, 2012-2013." CritCom. Council for European Studies, 7 Oct. 2013. Web. 11 Apr. 2017.
