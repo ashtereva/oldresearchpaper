@@ -30,7 +30,7 @@ So, overall can we really label all borrowing for consumption as "risky"? Could 
 
 However, even with so many roadblocks, I believe that at least the mindset of some Bulgarians is changing. There is a light at the end of the tunnel for those who have the option to borrow and the education and willingness to do so. According to "Fewer Bulgarians Become Indebted." highly educated people have increased their borrowing over the past year. While the article does not go into detail as to why that might be, it may be safe to assume that at least a small fraction of these educated borrowers will invest the money in small or medium enterprises, giving a much needed boost to output and GDP.
 
-#### <center> Works Cited </center>
+<center> <h4>Works Cited</h4> </center> 
 
 "Bulgaria Overcomes Consequences of Economic Crisis Due To Fast Growth of 9 Regions." *Novinite.com - Sofia News Agency.* Novinite JSC, 29 Nov. 2016. Web. 07 Apr. 2017.
 
